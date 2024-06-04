@@ -1,0 +1,230 @@
+    1  help
+    2  help cd
+    3  cd /d/programs/gitqa
+    4  ls
+    5  cd /c/programfiles/git
+    6  cd /c/program files/git
+    7  cd /c/program files/git
+    8  cs../
+    9  cs../
+   10  cd ../
+   11  cd ../
+   12  cd ../
+   13  cd /c/programfiles
+   14  cd /c/program files
+   15  cd /c
+   16  cd /c/<Program files>
+   17  cd /d/programs/gitqa
+   18  -c && rm ~/.bash_history
+   19  help -c
+   20  help c
+   21  markp@DESKTOP-V19KMAM MINGW64 /d/programs/gitqa
+   22  $ -c && rm ~/.bash_history
+   23  bash: -c: command not found
+   24  markp@DESKTOP-V19KMAM MINGW64 /d/programs/gitqa
+   25  $ help -c
+   26  bash: help: -c: invalid option
+   27  help: usage: help [-dms] [pattern ...]
+   28  markp@DESKTOP-V19KMAM MINGW64 /d/programs/gitqa
+   29  $ help c
+   30  caller: caller [expr]
+   31      Return the context of the current subroutine call.
+   32  -c && rm ~/.bash_history
+   33  -c /&& rm ~/.bash_history
+   34  cd ../
+   35  cd ../
+   36  cd ../
+   37  cd ../
+   38  cd /d/programs/gitqa/
+   39  cd ..
+   40  cd ..
+   41  cd ..
+   42  cd ..
+   43  cd /gitqa
+   44  cd /d/programs/gitqa/
+   45  cs /
+   46  cs /
+   47  cd /
+   48  pwd
+   49  cd /d
+   50  cd /d/
+   51  ls
+   52  clear
+   53  cs /d/
+   54  ls
+   55  cd ~
+   56  ls
+   57  cd /
+   58  ls
+   59  ls -l
+   60  cd /
+   61  clear
+   62  /cd /d
+   63  cd /
+   64  cd /d
+   65  touch goit.txt
+   66  ls
+   67  cd /
+   68  cd /d
+   69  vim goit.txt
+   70  nano goit.txt
+   71  cat goit.txt
+   72  mkdir test_dir
+   73  ls -l
+   74  ls
+   75  ls l
+   76  ls -l
+   77  cp goit.txt test_dir
+   78  ls -l
+   79  cd /test_dir
+   80  cd /d/test_dir/
+   81  ls -l
+   82  /cd 
+   83  /cd /
+   84  /cd /d
+   85  /cd ../
+   86  /cd /d/
+   87  /cd
+   88  /cd /
+   89  cd /
+   90  cd -l
+   91  cd /l
+   92  ls -l
+   93  cd /d
+   94  ls -l
+   95  cd /git-
+   96  cd /gitqa
+   97  cd /d/gitqa/
+   98  -c && rm
+   99  /.bash_history
+  100  -c
+  101  ipconfig
+  102  ipconfig -all
+  103  clear
+  104  cd /
+  105  clear
+  106  df -h
+  107  clear
+  108  whoami
+  109  clear
+  110  username
+  111  clear'
+  112  clear
+  113  clear
+  114  clean
+  115  /clear
+  116  clear'
+  117  clear
+  118  clear
+  119  clean
+  120  /clean
+  121  /clean
+  122  tr
+  123  rt
+  124  r
+  125  clear
+  126  git clone [200~https://github.com/Borsh2001/HW_10.git~
+  127  cd
+  128  cd d/goit
+  129  cd /d/goit
+  130  touch text_ignore.txt
+  131  l
+  132  -l
+  133  ls -l
+  134  nano .gitignore
+  135  git status
+  136  pwd
+  137  git init
+  138  git --version~
+  139  v
+  140  git --version
+  141  git config --global user.name
+  142  git config --global user.email
+  143  .git/config
+  144  git status
+  145  git add
+  146  git add
+  147  git add
+  148  git add
+  149  echo "text_ignore.txt" >> .gitignore
+  150  git add
+  151  git status
+  152  nano .gitignore
+  153  git status
+  154  git add
+  155  git add .
+  156  git rm --cached HW_10
+  157  git rm --cached -f HW_10
+  158  ls -l
+  159  nano .gitignore
+  160  git status
+  161  git add .gitignore
+  162  git commit -m "Додано text_ignore.txt до .gitignore"
+  163  touch main_test.txt
+  164  git add .
+  165  git rm -r HW_10
+  166  git commit -m "Removed embedded repository HW_10"
+  167  rm -rf .git/modules/HW_10
+  168  git status
+  169  git checkout --orphan new_branch
+  170  git add .
+  171  git commit -m "Starting fresh without embedded repository"
+  172  git branch -D master
+  173  git branch -m master
+  174   git config --global user.
+  175  git config --get user.name
+  176  git config --global user.name mark panhelov
+  177  git config --get user.name
+  178  git config --global user.name "Mark Panhelov"
+  179  git config --global user.name "Mark Panhelov"
+  180  git config --get user.name
+  181  git config --global user.name "Mark Panhelov"
+  182  git config --global user.name "Mark Panhelov"
+  183  --replace all
+  184  git config --global --replace-all user.email 
+  185  git config --get user.name
+  186  git config --global user.email markpangelov@gmail.com
+  187  git config --get user.email
+  188  clear
+  189  git clone https://github.com/Borsh2001/HW_10.git
+  190  touch text_ignore.txt
+  191  nano .gitignore
+  192  git status
+  193  git status
+  194  git status
+  195  git status
+  196  cd /d/qwerty
+  197  git status
+  198  cd /d/
+  199  git status
+  200  cd /d/qwerty
+  201  git status
+  202  git status
+  203  git add .
+  204  git commit -m "Додано файл command_list.scv"
+  205  git push
+  206     git clone <https://github.com/Borsh2001/HW_10.git>
+  207     git clone https://github.com/Borsh2001/HW_10.git
+  208  cd HW_10
+  209  touch text_ignore.txt
+  210  nano .gitignore
+  211  git status
+  212  git add
+  213  git add .
+  214  git commit -m "Додано файл .gitignore для ігнорування textignore.txt"
+  215  touch main_test.txt
+  216  git add .
+  217  git commit -m "Створено файл main_test.txt"
+  218     git checkout -b develop
+  219     
+  220  touch develop_test.txt
+  221  git add .
+  222  git commit -m "Створено файл develop_test.txt"
+  223  nano develop_test.txt
+  224  git status
+  225  git add .
+  226  git commit -m "Внесено зміни у develop_test.txt"
+  227  git checkout main
+  228  git merge develop
+  229  git log
+  230  history > command_list.csv
